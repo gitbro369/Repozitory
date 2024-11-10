@@ -1,0 +1,40 @@
+h1{
+    color: black;
+	text-align: center;
+	border: 3px solid;
+}	
+
+h1{
+    color: black;
+	text-align: center;
+	border: 3px solid;
+	font-size: 48px;
+	font-family: Helvetica;
+	padding-bottom: 40px;
+}	
+
+p{
+	text-align: center;
+	font-size: 22px;
+	font-family: Helvetica;
+	line-height: 1.65;
+
+
+}
+
+
+img{
+	border: 10px solid #000000;
+	width: 300px;
+	height: 300px;
+	opacity: 1;
+	border-radius: 8px ;
+}
+
+div {
+	background: grey;
+	width: 70%;
+	margin: auto;
+	box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.8);
+	padding: 50px;
+}
